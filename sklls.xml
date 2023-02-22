@@ -1,15 +1,15 @@
 
-<Скиллы в курсе 
-  1Testing teory
-  2Client server architecture
-  3Rest API Postman
-  4Jmetr 
+<Скиллы в курсе>
+  <1Testing teory>
+    <2Client server architecture>
+  <3Rest API Postman>
+  <4Jmetr 
     "stress testing"
-    "sniffing trafic" 
-  5Terminal Linux
+    "sniffing trafic"> 
+  <5Terminal Linux
    "Git Bash"
    "What is Git repository
     Git branch
-    Basic command in the terminal"
-  6Android studio
+    Basic command in the terminal">
+  <6Android studio
   7Devtools "HTML XML CSS">
